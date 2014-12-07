@@ -1,0 +1,2 @@
+MED-Wspolczynnik-korelacji-Pearsona-
+====================================
